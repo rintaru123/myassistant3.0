@@ -14,8 +14,6 @@ Assistant 3.0 — это мощный, но минималистичный пе�
 | **PDF Export Preview** |
 | ![PDF Export](screenshots/pdf_export_preview.png) |
 
-*(Примечание: Замените `pdf_export_preview.png` на реальный скриншот вашего PDF-экспорта)*
-
 ---
 
 <details>
@@ -47,7 +45,7 @@ Assistant 3.0 is a powerful yet minimalistic personal organizer designed to help
 
 ### Getting Started
 
-1.  Download the latest release from the [Releases](https://github.com/Rintaru123/myAssistant/releases) page.
+1.  Download the latest release from the [Releases](https://github.com/Rintaru123/myassistant3.0/releases) page.
 2.  Unzip the archive.
 3.  Run `main.exe`.
 
@@ -84,7 +82,7 @@ The application is portable. You can run it from any folder or a USB drive.
 
 ### Начало работы
 
-1.  Скачайте последнюю версию со страницы [Релизов](https://github.com/Rintaru123/myAssistant/releases).
+1.  Скачайте последнюю версию со страницы [Релизов](https://github.com/Rintaru123/myassistant3.0/releases).
 2.  Распакуйте архив.
 3.  Запустите `main.exe`.
 
