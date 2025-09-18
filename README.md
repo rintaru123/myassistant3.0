@@ -47,7 +47,7 @@ Assistant 3.0 is a powerful yet minimalistic personal organizer designed to help
 
 1.  Download the latest release from the [Releases](https://github.com/Rintaru123/myassistant3.0/releases) page.
 2.  Unzip the archive.
-3.  Run `main.exe`.
+3.  Run `MyAssistant.exe`.
 
 The application is portable. You can run it from any folder or a USB drive.
 
@@ -84,7 +84,7 @@ The application is portable. You can run it from any folder or a USB drive.
 
 1.  Скачайте последнюю версию со страницы [Релизов](https://github.com/Rintaru123/myassistant3.0/releases).
 2.  Распакуйте архив.
-3.  Запустите `main.exe`.
+3.  Запустите `MyAssistant.exe`.
 
 Приложение является портативным. Вы можете запускать его из любой папки или с USB-накопителя.
 
